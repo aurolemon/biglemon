@@ -36,7 +36,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.example.gatedev</string>
+                <string>com.aurogon.gatedev</string>
                 
                 <key>bundle-version</key>
                 <string>1.0</string>
@@ -45,7 +45,7 @@
                 <string>software</string>
                 
                 <key>title</key>
-                <string>MaGate</string>
+                <string>GateMa</string>
             </dict>
         </dict>
     </array>
